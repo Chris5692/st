@@ -10,3 +10,6 @@ My build with the follwoing patches applied:
 Up comming patches:
 5. Font2
 6, Vim Browse
+
+Installation:
+	Just run `./run` in the folder. And it should build st no problem.
